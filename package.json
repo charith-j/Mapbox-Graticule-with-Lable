@@ -1,0 +1,19 @@
+{
+  "name": "mapbox-graticule",
+  "version": "1.0.0",
+  "description": "Mapbox graticule display",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charith-j/Mapbox-Graticule-with-Lable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charith-j/Mapbox-Graticule-with-Lable/issues"
+  },
+  "homepage": "https://github.com/charith-j/Mapbox-Graticule-with-Lable#readme"
+}
